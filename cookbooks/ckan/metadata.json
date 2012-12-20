@@ -1,0 +1,30 @@
+{
+  "name": "ckan",
+  "description": "Installs/Configures ckan",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "maintainer": "No Company",
+  "maintainer_email": "l.martinezuribe@gmail.com",
+  "license": "All rights reserved",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "ckan::default": "Prints hellow world"
+  },
+  "version": "0.1.0"
+}
